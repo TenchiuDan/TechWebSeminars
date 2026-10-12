@@ -204,4 +204,4 @@ console.log("filter() keeps only objects that meet a condition.");
 console.log("map() creates a new array with transformed object values.");
 console.log("reduce() adds all values together into one final result.");
 console.log("Single-pass reduce checks each object once and adds only Tech prices.");
-console.log("for...of also checks each object once and adds only Tech prices without creating intermediate arrays.");
+console.log("for...of also checks each object once and adds only Tech prices without creating intermediate arrays.");console.log("Hello world");
